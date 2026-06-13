@@ -68,3 +68,5 @@ Finally, open your browser and navigate to `http://localhost:5173`.
 - [Scoring Rubric](docs/SCORING_RUBRIC.md)
 - [Contributing Guide](docs/CONTRIBUTING.md)
 - [REST API Reference](docs/API_REFERENCE.md)
+----
+### Email me on majipritam47@gmail.com For any enquiry.
