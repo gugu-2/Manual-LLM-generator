@@ -61,6 +61,8 @@ npm run dev
 
 Finally, open your browser and navigate to `http://localhost:5173`.
 
+---
+
 ## Documentation Hub
 - [Features & Capabilities](docs/FEATURES.md)
 - [System Architecture](docs/ARCHITECTURE.md)
